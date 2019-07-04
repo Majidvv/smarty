@@ -406,7 +406,7 @@
                     </div>
                     <div class="ms-layer ms-layer3 ms-text-size7 visible-xxxl visible-xxl visible-xl visible-lg visible-md" data-type="text" data-effect="rotate3dbottom(-70,0,0,180)" data-duration="2000" data-delay="300" data-ease="easeInOutQuint">
                         <div class="container">
-                            <a class="button-simple" href="#">Learn More <i class="fa fa-angle-double-right"></i></a>
+                            <a class="button-simple" href="#">Learn More <i class="fa fa-angle-double-right"></i></a> 
                         </div>
                     </div>
                     <div class="ms-thumb"><img alt="img" src="http://localhost/wordpress/wp-content/themes/smarty/images/slider_thumbs/8.jpg"></div>
